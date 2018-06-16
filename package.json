@@ -2,7 +2,7 @@
   "name": "memory-game-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http: //rjlafazan.github.io/memory-game-react",
+  "homepage": "http://rjlafazan.github.io/memory-game-react",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.0",
