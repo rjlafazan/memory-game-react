@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Pikachu",
+    "image":
+      "https://static.giantbomb.com/uploads/scale_small/0/6087/2437349-pikachu.png"
+  },
+  {
+    "id": 2,
+    "name": "Squirtle",
+    "image":
+      "https://static.giantbomb.com/uploads/scale_small/13/135472/1891764-007squirtle.png"
+  },
+  {
+    "id": 3,
+    "name": "Bulbasaur",
+    "image":
+      "https://static.giantbomb.com/uploads/scale_small/13/135472/1891758-001bulbasaur.png"
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "image":
+      "https://static.giantbomb.com/uploads/scale_small/0/6087/2438704-1202149925_t.png"
+  },
+  {
+    "id": 5,
+    "name": "Eevee",
+    "image":
+      "https://static.giantbomb.com/uploads/scale_small/13/135472/1891681-133eevee.png"
+  },
+  {
+    "id": 6,
+    "name": "Psyduck",
+    "image":
+      "https://static.giantbomb.com/uploads/scale_small/13/135472/1892134-054psyduck.png"
+  },
+  {
+    "id": 7,
+    "name": "Pidgey",
+    "image":
+      "https://static.giantbomb.com/uploads/scale_small/13/135472/1891631-016pidgey.png"
+  },
+  {
+    "id": 8,
+    "name": "Ekans",
+    "image":
+      "https://static.giantbomb.com/uploads/scale_small/13/135472/1898239-023ekans.png"
+  },
+  {
+    "id": 9,
+    "name": "Magikarp",
+    "image":
+      "https://static.giantbomb.com/uploads/scale_small/13/135472/1898291-129magikarp.png"
+  },
+  {
+    "id": 10,
+    "name": "Sandshrew",
+    "image":
+      "https://static.giantbomb.com/uploads/scale_small/13/135472/1891822-027sandshrew.png"
+  },
+  {
+    "id": 11,
+    "name": "Jiggleypuff",
+    "image":
+      "https://static.giantbomb.com/uploads/scale_small/13/135472/1892299-039jigglypuff.png"
+  },
+  {
+    "id": 12,
+    "name": "Horsea",
+    "image":
+      "https://static.giantbomb.com/uploads/scale_small/13/135472/1891847-116horsea.png"
+  }
+]
